@@ -50,11 +50,6 @@ Always learning something new
 </a>  
 <a href="https://github.com/">  
 <img src="https://skillicons.dev/icons?i=github" height="50"/>  
-</a>  </div>  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%"/>  GitHub Statistics
-
-<div align="center">  <a href="https://github.com/ElmanCod110">  
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ElmanCod110&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" />  
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmanCod110&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800" />  
 </a>  </div>  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%"/>  What I Build
 
 Web applications
