@@ -52,7 +52,7 @@ I'm a developer who enjoys building practical software, experimenting with new t
   <a href="https://github.com/ElmanCod110/Encryption-tool">
     <img src="./Encryption-tool.svg" 
          alt="Encryption Tool" 
-         width="400" 
+         width="140" 
          style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
   </a>
 
