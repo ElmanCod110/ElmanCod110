@@ -45,7 +45,9 @@ Clean Code Modern Web Tech Software Architecture
 
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="50"/></a>
 <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" height="50"/></a>
-<a href="https://www.json.org/"><img src="https://skillicons.dev/icons?i=json" height="50"/></a>
+<a href="https://www.json.org/">
+<img src="https://img.shields.io/badge/JSON-8A2BE2?style=for-the-badge&logo=json&logoColor=white" height="28"/>
+</a>
 
 🧰 Tools & Environment
 
@@ -58,14 +60,14 @@ Clean Code Modern Web Tech Software Architecture
 
 
 
-  <a href="https://www.apachefriends.org/" title="XAMPP">
-    <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="42" style="background: linear-gradient(135deg, #1a1a2e, #2d2d4a); padding: 9px; border-radius: 12px; box-shadow: 0 4px 12px rgba(138,43,226,0.35);" />
+  <a href="https://www.apachefriends.org/">
+    <img src="https://img.shields.io/badge/XAMPP-8A2BE2?style=for-the-badge&logo=xampp&logoColor=white" height="28"/>
   </a>
-  <a href="https://www.php.net/manual/en/book.sodium.php" title="Sodium PHP">
-    <img src="https://cdn.simpleicons.org/libsodium/3884FF" height="42" style="background: linear-gradient(135deg, #1a1a2e, #2d2d4a); padding: 9px; border-radius: 12px; box-shadow: 0 4px 12px rgba(138,43,226,0.35);" />
+  <a href="https://www.php.net/manual/en/book.sodium.php">
+    <img src="https://img.shields.io/badge/Sodium%20PHP-8A2BE2?style=for-the-badge&logo=libsodium&logoColor=white" height="28"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands" title="Windows CMD">
-    <img src="https://cdn.simpleicons.org/windowsterminal/0078D6" height="42" style="background: linear-gradient(135deg, #1a1a2e, #2d2d4a); padding: 9px; border-radius: 12px; box-shadow: 0 4px 12px rgba(138,43,226,0.35);" />
+  <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands">
+    <img src="https://img.shields.io/badge/CMD-8A2BE2?style=for-the-badge&logo=windows-terminal&logoColor=white" height="28"/>
   </a>
 
 </div>
