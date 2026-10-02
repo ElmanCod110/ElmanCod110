@@ -6,33 +6,40 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Developer+%7C+Builder+%7C+Problem+Solver;PHP+%26+JavaScript+Enthusiast;Security+%26+Encryption+Interested" />
 </div>
 
+<!-- بخش آمار (Views, Stars, Followers) -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ElmanCod110&label=Profile%20views&color=6a11cb&style=flat" />
-  <img src="https://img.shields.io/github/followers/ElmanCod110?label=Followers&style=social&color=8A2BE2" />
+  <img src="https://komarev.com/ghpvc/?username=ElmanCod110&label=Profile%20views&color=8A2BE2&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ElmanCod110?label=Followers&style=for-the-badge&color=8A2BE2" />
+  <img src="https://img.shields.io/github/stars/ElmanCod110?label=Stars&style=for-the-badge&color=8A2BE2" />
+</div>
+
+<!-- تصویر بنر جدید (1920x445) -->
+<div align="center" style="margin-top: 20px;">
+  <img src="./src/ElmanCod110.jpg" alt="Elman Mohammadi Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%"/>
 
-👋 About
+## 👋 About
 
 I'm a developer who enjoys building practical software, experimenting with new technologies, and turning ideas into real projects.
 
 <div align="center">
 
-🎯 Focused On 🛠️ Building 🔐 Interested In
-Web Development Personal Projects Security & Encryption
-Clean Code Modern Web Tech Software Architecture
+🎯 Focused On | 🛠️ Building | 🔐 Interested In
+:---: | :---: | :---:
+Web Development | Personal Projects | Security & Encryption
+Clean Code | Modern Web Tech | Software Architecture
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%"/>
 
-💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-🌐 Languages & Core
-
+### 🌐 Languages & Core
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="50"/></a>
@@ -41,54 +48,51 @@ Clean Code Modern Web Tech Software Architecture
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="50"/></a>
 <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" height="50"/></a>
 
-🗄️ Databases & Data
-
+### 🗄️ Databases & Data
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="50"/></a>
 <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" height="50"/></a>
-<a href="https://www.json.org/">
-<img src="https://img.shields.io/badge/JSON-8A2BE2?style=for-the-badge&logo=json&logoColor=white" height="28"/>
-</a>
+<a href="https://www.json.org/"><img src="https://img.shields.io/badge/JSON-8A2BE2?style=for-the-badge&logo=json&logoColor=white" height="48" style="margin: 0 5px;"/></a>
 
-🧰 Tools & Environment
-
+### 🧰 Tools & Environment
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="50"/></a>
 <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="50"/></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50"/></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
-
-
-
-
-
-  <a href="https://www.apachefriends.org/">
-    <img src="https://img.shields.io/badge/XAMPP-8A2BE2?style=for-the-badge&logo=xampp&logoColor=white" height="28"/>
-  </a>
-  <a href="https://www.php.net/manual/en/book.sodium.php">
-    <img src="https://img.shields.io/badge/Sodium%20PHP-8A2BE2?style=for-the-badge&logo=libsodium&logoColor=white" height="28"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands">
-    <img src="https://img.shields.io/badge/CMD-8A2BE2?style=for-the-badge&logo=windows-terminal&logoColor=white" height="28"/>
-  </a>
+<br/>
+<a href="https://www.apachefriends.org/"><img src="https://img.shields.io/badge/XAMPP-8A2BE2?style=for-the-badge&logo=xampp&logoColor=white" height="28" style="margin: 5px;"/></a>
+<a href="https://www.php.net/manual/en/book.sodium.php"><img src="https://img.shields.io/badge/Sodium%20PHP-8A2BE2?style=for-the-badge&logo=libsodium&logoColor=white" height="28" style="margin: 5px;"/></a>
+<a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands"><img src="https://img.shields.io/badge/CMD-8A2BE2?style=for-the-badge&logo=windows-terminal&logoColor=white" height="28" style="margin: 5px;"/></a>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%"/>
 
-🚀 My Projects
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElmanCod110&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmanCod110&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2" width="48%" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://star-history.com/#ElmanCod110/Encryption-tool&Date">
+    <img src="https://api.star-history.com/svg?repos=ElmanCod110/Encryption-tool&type=Date&theme=radical" alt="Star History Chart" width="100%" />
+  </a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%"/>
+
+## 🚀 My Projects
 
 <div align="center">
 
   <a href="https://github.com/ElmanCod110/Encryption-tool">
-    <img src="./Encryption-tool.svg" 
+    <img src="./src/Encryption-tool.svg" 
          alt="Encryption Tool" 
          width="140" 
-         style="border-radius: 15px; box-shadow: 0 4px 15px rgba(138,43,226,0.4);" />
+         style="border-radius: 15px; box-shadow: 0 4px 15px rgba(138,43,226,0.4); margin-bottom: 10px;" />
   </a>
-
-
-
-
-
+  <br/>
   <a href="https://github.com/ElmanCod110/Encryption-tool">
     <img src="https://img.shields.io/badge/🔐%20Encryption%20Tool-View%20on%20GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -97,18 +101,18 @@ Clean Code Modern Web Tech Software Architecture
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%"/>
 
-🔨 What I Build
+## 🔨 What I Build
 
-· 🌐 Web applications
-· 🔐 Security and encryption tools
-· 🤝 Collaborative development platforms
-· 🗄️ Database-driven applications
-· ⚙️ Developer tools
-· 🧪 Experimental projects
+- 🌐 Web applications
+- 🔐 Security and encryption tools
+- 🤝 Collaborative development platforms
+- 🗄️ Database-driven applications
+- ⚙️ Developer tools
+- 🧪 Experimental projects
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%"/>
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
   <a href="https://github.com/ElmanCod110">
