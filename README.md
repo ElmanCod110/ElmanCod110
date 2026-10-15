@@ -87,7 +87,7 @@ Clean Code | Modern Web Tech | Software Architecture
 <div align="center">
 
   <a href="https://github.com/ElmanCod110/Encryption-tool">
-    <img src="./src/Encryption-tool.svg" 
+    <img src="./src/Encryption-tool.png" 
          alt="Encryption Tool" 
          width="140" 
          style="border-radius: 15px; box-shadow: 0 4px 15px rgba(138,43,226,0.4); margin-bottom: 10px;" />
